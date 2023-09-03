@@ -1,5 +1,5 @@
 # codewithkiran.github.io
 
-tutorial
+tutorial:
 
 https://www.youtube.com/watch?v=CykufIPK_6o&t=1s
